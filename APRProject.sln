@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "APRProject", "APRProject\APRProject.vcxproj", "{03DEDE44-73D9-4795-B76C-3BF4CBACA371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03DEDE44-73D9-4795-B76C-3BF4CBACA371}.Debug|x64.ActiveCfg = Debug|x64
+		{03DEDE44-73D9-4795-B76C-3BF4CBACA371}.Debug|x64.Build.0 = Debug|x64
+		{03DEDE44-73D9-4795-B76C-3BF4CBACA371}.Debug|x86.ActiveCfg = Debug|Win32
+		{03DEDE44-73D9-4795-B76C-3BF4CBACA371}.Debug|x86.Build.0 = Debug|Win32
+		{03DEDE44-73D9-4795-B76C-3BF4CBACA371}.Release|x64.ActiveCfg = Release|x64
+		{03DEDE44-73D9-4795-B76C-3BF4CBACA371}.Release|x64.Build.0 = Release|x64
+		{03DEDE44-73D9-4795-B76C-3BF4CBACA371}.Release|x86.ActiveCfg = Release|Win32
+		{03DEDE44-73D9-4795-B76C-3BF4CBACA371}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F39F2AA-994B-4809-8094-3E972F3755BE}
+	EndGlobalSection
+EndGlobal
